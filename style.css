@@ -1,0 +1,55 @@
+div{
+    border: solid 5px;
+    background-color: rgb(255, 255, 255);
+    width: 553px;
+    margin-left: 450px;
+    color: rgb(45, 146, 45);
+    border-color: rgb(45, 146, 45) ;
+}
+form{
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+caption{
+    text-align: center;
+    margin-left: 5px;
+}
+input{
+    cursor: pointer;
+}
+h1{
+    color:darkgreen;
+    text-align: center;
+}
+.qwe{
+    border: solid 1px;
+    width: 150px;
+    height: 150px;
+    background-color: aliceblue;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: right;
+    padding-left: 5px;
+    padding-top: 5px;
+    
+}
+
+button{
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 36px;
+    width: 105px; 
+    cursor: pointer;
+    transition: opacity 4s;
+    float: left 10pxf;
+    }
+    button:hover{
+        opacity: 0.7;
+        background-color:  rgb(45, 146, 45);
+    }
+    button:active{
+    opacity: 0.9;
+    }
+
